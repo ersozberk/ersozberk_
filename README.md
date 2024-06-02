@@ -60,6 +60,7 @@ When I'm not at the keyboard, I like sports, astronomy and hanging out with frie
       
       
 <!-- BLOG-POST-LIST:START -->
+- [Berk ersoz is pretty cool 🆒](https://notes.aliciasykes.com/51203/astro-is-pretty-cool)
 - [Astro is pretty cool 🆒](https://notes.aliciasykes.com/51203/astro-is-pretty-cool)
 - [My thoughts on Tailwind 🍃](https://notes.aliciasykes.com/49557/my-thoughts-on-tailwind)
 - [Project Ideas: Agile 💡](https://notes.aliciasykes.com/48239/project-ideas-agile)
